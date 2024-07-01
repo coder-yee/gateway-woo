@@ -2,7 +2,7 @@
     "name": "netsmax/gateway-woo",
     "description": "Extends WooCommerce with an Netsmax gateway payment.",
     "license": "GPL-2.0",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "type": "library",
     "authors": [
         {
@@ -17,11 +17,6 @@
     "autoload": {
         "psr-4": {
             "Netsmax\\GatewayWoo\\": "includes/"
-        }
-    },
-    "extra": {
-        "installer-paths": {
-            "includes": ["vendor/netsmax/gateway-woo"]
         }
     }
 }
