@@ -1,8 +1,8 @@
 {
     "name": "netsmax/gateway-woo",
     "description": "Extends WooCommerce with an Netsmax gateway payment.",
-    "license": "GPLv2",
-    "version": "0.1.1",
+    "license": "GPL-2.0",
+    "version": "0.1.2",
     "type": "library",
     "authors": [
         {
